@@ -198,7 +198,7 @@
         <p class="float-right">
           <a href="#">Ir para o topo</a>
         </p>
-        <p> &copy; Meus projetos e treinamentos - Inaldo Monteiro</p>
+        <p> &copy; Meus projetos - Inaldo Monteiro</p>
       </div>
     </footer>
 
