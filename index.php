@@ -47,7 +47,7 @@
             <div class="card mb-4 box-shadow">
               <img src="img/projetos.png" alt="PROJETOS">
               <div class="card-body">
-                <p class="card-text">Loja Virtual desenvolvida em Wordpress e Woocomenrce.</p>
+                <p class="card-text">Loja Virtual desenvolvida em Wordpress e Woocomerce.</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   <a href="http://www.querohit.com.br"></a>
