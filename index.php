@@ -20,30 +20,7 @@
   <div class="container-fluid">
     <a class="navbar-brand" href="#" style="text-align: center;">MEUS PROJETOS & TREINAMENTOS</a>
   </div>
-</nav>
-  <header>
-    <div class="collapse bg-dark" id="navbarHeader">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-8 col-md-7 py-4">
-            <h4 class="text-white">About</h4>
-            <p class="text-muted">Add some information about the album below, the author, or any other background
-              context. Make it a few sentences long so folks can pick up some informative tidbits. Then, link them off
-              to some social networking sites or contact information.</p>
-          </div>
-          <div class="col-sm-4 offset-md-1 py-4">
-            <h4 class="text-white">Contact</h4>
-            <ul class="list-unstyled">
-              <li><a href="#" class="text-white">Follow on Twitter</a></li>
-              <li><a href="#" class="text-white">Like on Facebook</a></li>
-              <li><a href="#" class="text-white">Email me</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-
-  </header>
+</nav>  
 
   <main role="main">
     <div class="album py-5 bg-light">
@@ -54,12 +31,12 @@
             <div class="card mb-4 box-shadow">
               <img src="img/projetos.png" alt="PROJETOS">
               <div class="card-body">
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
-                  content. This content is a little bit longer.</p>
+                <p class="card-text"> Projeto desenvolvido como proposta de layout para instituição de ensino .</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
-                    <button type="button" class="btn btn-sm btn-outline-secondary">Visualizar</button>
-                    
+                  <a href="http://www.projetarweb.com.br/bec">
+                    <button type="button" class="btn btn-sm btn-outline-secondary">Visualizar</button>                    
+                    </a>
                   </div>
                   <small class="text-muted">9 mins</small>
                 </div>
