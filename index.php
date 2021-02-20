@@ -29,7 +29,7 @@
         <div class="row">
           <div class="col-md-4">
             <div class="card mb-4 box-shadow">
-              <img src="img/projetos.png" alt="PROJETOS" height="100%">
+              <img src="img/projetos.png" alt="PROJETOS">
               <div class="card-body">
                 <p class="card-text"> Projeto desenvolvido como proposta de layout para instituição de ensino .</p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -38,7 +38,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary">Visualizar</button>                    
                     </a>
                   </div>
-                  <small class="text-muted">9 mins</small>
+                  <small class="text-muted">HTML5 , CSS3, Javascript</small>
                 </div>
               </div>
             </div>
@@ -189,11 +189,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" integrity="sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js" integrity="sha384-nsg8ua9HAw1y0W1btsyWgBklPnCUAFLuTMS2G72MMONqmOymq585AcH49TLBQObG" crossorigin="anonymous"></script>
-  <script>
-  $(".nav-link").on("click", function(){
-   $('.navbar-collapse').collapse('hide');
-});
-  </script>
+
 </body>
 
 </html>
