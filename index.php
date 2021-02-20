@@ -31,7 +31,7 @@
             <div class="card mb-4 box-shadow">
               <img src="img/projetos.png" alt="PROJETOS">
               <div class="card-body">
-                <p class="card-text"> Projeto desenvolvido como proposta de layout para instituição de ensino .</p>
+                <p class="card-text"> Interface desenvolvida como proposta de layout para instituição de ensino .</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   <a href="http://www.inaldomonteiro.com.br/bec">
@@ -47,13 +47,13 @@
             <div class="card mb-4 box-shadow">
               <img src="img/projetos.png" alt="PROJETOS">
               <div class="card-body">
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
-                  content. This content is a little bit longer.</p>
+                <p class="card-text">Loja virtual desenvolvida em Wordpress e Woocomenrce.</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
+                  <a href="http://www.querohit.com.br"></a>
                     <button type="button" class="btn btn-sm btn-outline-secondary">Visualizar</button>                
                   </div>
-                  <small class="text-muted">9 mins</small>
+                  <small class="text-muted">HTML5 , CSS3, Javascript, Wordpress , Woocomerce</small>
                 </div>
               </div>
             </div>
