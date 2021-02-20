@@ -29,12 +29,12 @@
         <div class="row">
           <div class="col-md-4">
             <div class="card mb-4 box-shadow">
-              <img src="img/projetos.png" alt="PROJETOS">
+              <img src="img/projetos.png" alt="PROJETOS" height="100%">
               <div class="card-body">
                 <p class="card-text"> Projeto desenvolvido como proposta de layout para instituição de ensino .</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
-                  <a href="http://www.projetarweb.com.br/bec">
+                  <a href="http://www.inaldomonteiro.com.br/bec">
                     <button type="button" class="btn btn-sm btn-outline-secondary">Visualizar</button>                    
                     </a>
                   </div>
