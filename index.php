@@ -50,8 +50,9 @@
                 <p class="card-text">Quero Hit - Loja Virtual desenvolvida em Wordpress e Woocomerce.</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
-                  <a href="http://www.querohit.com.br"></a>
-                    <button type="button" class="btn btn-sm btn-outline-secondary">Visualizar</button>                
+                  <a href="http://www.querohit.com.br">
+                    <button type="button" class="btn btn-sm btn-outline-secondary">Visualizar</button> 
+                    </a>                 
                   </div>
                   <small class="text-muted">Wordpress , Woocomerce</small>
                 </div>
